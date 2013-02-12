@@ -1,4 +1,4 @@
 ROSE-EDG Binaries
 =================
 
-The 100 most recent ROSE-EDG binaries.
+This collection of binaries is currently incomplete.
